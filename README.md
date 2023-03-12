@@ -7,7 +7,7 @@ Machine Learning Data Engineering Consultant at Kubrick Group.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eleanorwatson&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleanorwatson](https://github.com/anuraghazra/github-readme-stats)
+
 
 I write about Machine Learning and Data Engineering tips at https://medium.com/@eleanor.watson
 
@@ -17,3 +17,5 @@ I am currently working on:
 
 * Improving python skills and practises. 
 * Plotly
+
+### :writing_hand: Blog Posts :
