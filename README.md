@@ -19,7 +19,5 @@ I am currently working on:
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@eleanor.watson/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@eleanor.watsong/0" alt="Unit Testing"> 
-  
-  https://api.rss2json.com/v1/api.json?rss_url=https://medium.com/feed/@eleanor.watson
 
 <!-- BLOG-POST-LIST:END -->
