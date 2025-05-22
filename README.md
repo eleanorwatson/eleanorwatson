@@ -4,7 +4,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=eleanorwatson&theme=dark)](https://git.io/streak-stats)
 ### About me
 _______
-Machine Learning Data Engineering Consultant at Kubrick Group. Interested in data engineering best practises and financial blogging.
+Data Engineer. Interested in data engineering best practises and utilising Machine Learning.
 
 ---
 I write about Machine Learning and Data Engineering and Finance at https://medium.com/@eleanor.watson
